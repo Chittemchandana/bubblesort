@@ -36,7 +36,7 @@ for i in range(len(arr)):
 	print("% d" % arr[i], end=" ")
 
 
-#approach2
+# approach2
 def bubblesort(elements):
 	swapped = False
 	# Looping from size of array from last index[-1] to index [0]
